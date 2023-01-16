@@ -1,0 +1,13 @@
+{
+  "name": "billet-dls-cli",
+  "version": "0.0.1",
+  "description": "DLS test package",
+  "author": "ADV",
+  "private": true,
+  "main": "./cjs/index.js",
+  "module": "./esm/index.js",
+  "types": "./esm/index.d.ts",
+  "peerDependencies": {
+    "react": ">=17"
+  }
+}
