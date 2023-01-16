@@ -4,9 +4,9 @@
   "description": "DLS test package",
   "author": "ADV",
   "private": true,
-  "main": "./cjs/index.js",
-  "module": "./esm/index.js",
-  "types": "./esm/index.d.ts",
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
+  "types": "./dist/esm/index.d.ts",
   "peerDependencies": {
     "react": ">=17"
   }
